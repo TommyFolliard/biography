@@ -1,2 +1,4 @@
-dentify what aspects of the work have been correctly implemented and what have not.
-Say approximately how many hours you have spent completing the assignment.
+I spent about 3 and half hours on this project.  I implemented everything
+properly I believe; however I should have started earlier because I could have
+had more time to edit the style sheet, which seems like it could get very
+addicting because it is fun.
